@@ -88,7 +88,7 @@ CREATE TABLE `usertypes` (
 
 INSERT INTO `usertypes` (`id`, `name`) VALUES
 (1, 'ADMIN'),
-(2, 'JOURNALIST');
+(2, 'JOURNALIER');
 
 --
 -- Indexes for dumped tables

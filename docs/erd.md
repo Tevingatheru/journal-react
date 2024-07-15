@@ -21,7 +21,7 @@ enum "JournalCategory" as jt {
 
 enum "UserType" as ut {
   ADMIN,
-  JOURNALIST
+  JOURNALER
 }
 
 entity "user" as user {

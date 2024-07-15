@@ -10,9 +10,9 @@ title Sytem Architecture
 ***** expo / react-native-cli
 ****** Typescript
 ** Backend
-*** Next.js
-**** Typescript
-**** typeorm
+*** Django
+**** Python
+**** Django-rest framework
 **** APIs
 ** Database
 *** MySQL

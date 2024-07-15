@@ -3,7 +3,7 @@
 
 title Use case
 
-actor "journalor" as journalor
+actor "journaler" as journaler
 
 usecase "Sign up" as s
 usecase "Login" as l
@@ -16,14 +16,14 @@ usecase "View Journal Entry" as view
 usecase "View list by period" as period
 left to right direction
 
-journalor -- s
-journalor -- lo
-journalor -- l
-journalor -- add
-journalor -- edit
-journalor -- delete
-journalor -- view
-journalor -- period
-journalor -- up
+journaler -- s
+journaler -- lo
+journaler -- l
+journaler -- add
+journaler -- edit
+journaler -- delete
+journaler -- view
+journaler -- period
+journaler -- up
 @endum
 ```
